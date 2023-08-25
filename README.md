@@ -30,7 +30,8 @@ This project demonstrates a Python-based chatbot designed to converse within Dis
 This project offers a unique opportunity to explore the fusion of AI-driven conversation with Discord's dynamic platform. Feel free to dive in, customize prompts, and watch your bot engage in lifelike discussions within your Discord community.
 
 <img align="left" height="300" src="https://i.ibb.co/phZHqFT/Discord-Chat-Bot-demo.webp"  />
-<br>
+
+<br clear="both">
 
 ## Technology Used
 
@@ -61,7 +62,7 @@ To get started with the Discord Chatbot project, follow these steps:
 1. Clone the repository to your local machine:
 
  ```bash
-   git clone https://github.com/Sh1v4nk/DiscordChatBot.git
+git clone https://github.com/Sh1v4nk/DiscordChatBot.git
  ```
 
 2. Navigate to the project directory:
@@ -79,11 +80,11 @@ cd DiscordChatBot
   "PassKey": "YOUR_DISCORD_BOT_TOKEN",
   "OPENAI_API_KEY": "YOUR_OPENAI_API_KEY"
 }
-
+ ```
+ 
 Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENAI_API_KEY with your actual OpenAI API key.
 
-Note: Keep this file secure and never share it publicly or commit it to version control.
- ```
+*Note: Keep this file secure and never share it publicly or commit it to version control.*
 
 
 5. Save and close the config.json file.
@@ -93,20 +94,18 @@ Note: Keep this file secure and never share it publicly or commit it to version 
 
 ## Running the Bot
 
-To run the bot, make sure you have Python and the required libraries installed. You can install the required libraries using the following command:
+*To run the bot, make sure you have Python and the required libraries installed. You can install the required libraries using the following command:*
 
 ```
  pip install discord.py openai
-
 ```
+
 After installing the required libraries, run the bot using the provided code:
 
 ```bash
 python main.py
-
-You can Replace main.py with the actual name of your bot script.
 ```
-
+*Note: You can Replace main.py with the actual name of your bot script.*
 
 By following these instructions, you'll be able to set up and run the chatbot with your own API keys. This approach ensures the security of your sensitive information.
 
