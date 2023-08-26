@@ -5,7 +5,7 @@ Welcome to the repository for my DiscordChatBot project, powered by the OpenAI A
 
 ## Overview
 
-Welcome to the Discord Chatbot project powered by the OpenAI API! 🤖🚀
+Welcome to the DiscordChatBot project powered by the OpenAI API! 🤖🚀
 
 This project demonstrates a Python-based chatbot designed to converse within Discord servers. By harnessing the capabilities of OpenAI's text-davinci-003 GPT-3.5 model, the chatbot produces contextually fitting and human-like responses, enhancing user interactions with dynamic conversations.
 
@@ -51,13 +51,13 @@ These technologies collectively power the chatbot's functionality, integration, 
 
 ## Get API Keys
 
-- Obtain a Discord bot token by creating a new bot application on the Discord Developer Portal.
+- Obtain a Discord bot token by creating a new bot application within the Discord Developer Portal.
 
 - Get an OpenAI API key by signing up on the OpenAI website.
 
 ## Installation
 
-To get started with the Discord Chatbot project, follow these steps:
+To get started with the DiscordChatbot project, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -97,7 +97,7 @@ Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENA
 *To run the bot, make sure you have Python and the required libraries installed. You can install the required libraries using the following command:*
 
 ```
- pip install discord.py openai
+pip install discord.py openai
 ```
 
 After installing the required libraries, run the bot using the provided code:
@@ -114,7 +114,7 @@ By following these instructions, you'll be able to set up and run the chatbot wi
 
 1. Go to the Discord Developer Portal and select your bot application.
 
-2. Under the "OAuth2" section, select "URl Generator" than checkmark "bot" from Scopes section and give access according to your choice.
+2. In the "OAuth2" section, choose the "URL Generator" option. Then, place a checkmark next to "bot" in the Scopes section. For access permissions, I recommend selecting "Read Messages/View Channels."
 
 3. Copy the generated OAuth2 URL and paste it into your browser. Choose a server to invite the bot.
 
@@ -141,7 +141,7 @@ You can customize the behavior of the ChatterBox bot by adjusting various parame
 
 ## Further Exploration
 
-For more information about customizing the GPT-3 model behavior, experimenting with different prompts, and utilizing additional features, refer to the official [OpenAI API documentation](https://platform.openai.com/docs/api-reference/introduction) and [Guides](https://platform.openai.com/docs/guides/gpt).
+For more information about customizing the GPT-3 model behavior, experimentation with different prompts, and utilizing additional features, refer to the official [OpenAI API documentation](https://platform.openai.com/docs/api-reference/introduction) and [Guides](https://platform.openai.com/docs/guides/gpt).
 
 Please keep in mind that fine-tuning the bot's behavior requires a good understanding of both the OpenAI API and the bot's code implementation.
 
@@ -152,7 +152,7 @@ ChatterBox is a simple example of a Discord bot using the OpenAI API. The bot's 
 
 ## Contributing
 
-Contributions to DiscordChatBot are more than welcome! If you'd like to add new features, improve existing functionality, or fix any issues, feel free to submit a pull request.
+Contributions to DiscordChatBot are highly welcome! If you'd like to add new features, improve existing functionality, or fix any issues, feel free to submit a pull request.
 
 ---
 
