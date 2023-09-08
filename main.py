@@ -3,7 +3,6 @@ import os
 import openai
 import difflib
 import json
-import requests
 
 with open('config.json') as config_file:
     config_data = json.load(config_file)
@@ -60,27 +59,6 @@ class MyClient(discord.Client):
                 prev_response = message_to_send
 
                 await message.reply(message_to_send, mention_author=False)
-
-def get_weather(location):
-    # Replace with your OpenWeatherMap API key
-    api_key = "WeatherKey"
-    base_url = "https://api.openweathermap.org/data/2.5/weather"
-    
-    params = {
-        "q": location,
-        "appid": api_key,
-        "units": "metric",  # Use "imperial" for Fahrenheit
-    }
-    
-    response = requests.get(base_url, params=params)
-    
-    if response.status_code == 200:
-        data = response.json()
-        temperature = data["main"]["temp"]
-        description = data["weather"][0]["description"]
-        return f"The weather in {location} is {description} with a temperature of {temperature}°C."
-    else:
-        return "Unable to fetch weather information."
 
 intents = discord.Intents.default()
 intents.message_content = True
