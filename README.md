@@ -29,7 +29,7 @@ This project demonstrates a Python-based chatbot designed to converse within Dis
 
 This project offers a unique opportunity to explore the fusion of AI-driven conversation with Discord's dynamic platform. Feel free to dive in, customize prompts, and watch your bot engage in lifelike discussions within your Discord community.
 
-<img align="left" height="300" src="https://i.ibb.co/phZHqFT/Discord-Chat-Bot-demo.webp"  />
+<img align="left" height="300" src="https://i.ibb.co/phZHqFT/Discord-Chat-Bot-demo.webp" alt="DiscordChatBot Demo">
 
 <br clear="both">
 
