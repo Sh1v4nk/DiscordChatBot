@@ -29,9 +29,9 @@ This project demonstrates a Python-based chatbot designed to converse within Dis
 
 This project offers a unique opportunity to explore the fusion of AI-driven conversation with Discord's dynamic platform. Feel free to dive in, customize prompts, and watch your bot engage in lifelike discussions within your Discord community.
 
-<img align="left" height="300" src="https://i.ibb.co/phZHqFT/Discord-Chat-Bot-demo.webp" alt="DiscordChatBot Demo">
+### Application Demo:
 
-<br clear="both">
+<img width="auto" src="https://i.ibb.co/JHhbRqb/image.png" alt="DiscordChatBot Demo">
 
 ## Technology Used
 
@@ -61,9 +61,9 @@ To get started with the DiscordChatbot project, follow these steps:
 
 1. Clone the repository to your local machine:
 
- ```bash
+```bash
 git clone https://github.com/Sh1v4nk/DiscordChatBot.git
- ```
+```
 
 2. Navigate to the project directory:
 
@@ -75,26 +75,24 @@ cd DiscordChatBot
 
 4. Inside config.json, add your Discord bot token and OpenAI API key in the following format:
 
- ```bash
+```bash
 {
-  "PassKey": "YOUR_DISCORD_BOT_TOKEN",
-  "OPENAI_API_KEY": "YOUR_OPENAI_API_KEY"
+ "PassKey": "YOUR_DISCORD_BOT_TOKEN",
+ "OPENAI_API_KEY": "YOUR_OPENAI_API_KEY"
 }
- ```
- 
+```
+
 Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENAI_API_KEY with your actual OpenAI API key.
 
-*Note: Keep this file secure and never share it publicly or commit it to version control.*
-
+_Note: Keep this file secure and never share it publicly or commit it to version control._
 
 5. Save and close the config.json file.
 
 6. Run the bot using the provided code, and it will use the keys you've provided in the config.json file to connect to Discord and use the OpenAI API.
 
-
 ## Running the Bot
 
-*To run the bot, make sure you have Python and the required libraries installed. You can install the required libraries using the following command:*
+_To run the bot, make sure you have Python and the required libraries installed. You can install the required libraries using the following command:_
 
 ```
 pip install discord.py openai
@@ -105,10 +103,10 @@ After installing the required libraries, run the bot using the provided code:
 ```bash
 python main.py
 ```
-*Note: You can Replace main.py with the actual name of your bot script.*
+
+_Note: You can Replace main.py with the actual name of your bot script._
 
 By following these instructions, you'll be able to set up and run the chatbot with your own API keys. This approach ensures the security of your sensitive information.
-
 
 ## Invite the Bot
 
@@ -117,7 +115,6 @@ By following these instructions, you'll be able to set up and run the chatbot wi
 2. In the "OAuth2" section, choose the "URL Generator" option. Then, place a checkmark next to "bot" in the Scopes section. For access permissions, I recommend selecting "Read Messages/View Channels."
 
 3. Copy the generated OAuth2 URL and paste it into your browser. Choose a server to invite the bot.
-
 
 ## Usage
 
@@ -164,7 +161,7 @@ Connect with me:
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/sh1v4nk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/sh1v4nk_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
