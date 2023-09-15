@@ -3,6 +3,22 @@
 
 Welcome to the repository for my DiscordChatBot project, powered by the OpenAI API. This project utilizes Python to create a chatbot that can engage in conversations on Discord servers using the OpenAI API. The chatbot leverages the capabilities of GPT-3.5 to generate human-like responses, making interactions with users more dynamic and engaging.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Technology Used](#technology-used)
+- [Get API Keys](#get-api-keys)
+- [Installation](#installation)
+- [Running the Bot](#running-the-bot)
+- [Invite the Bot](#invite-the-bot)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Further Exploration](#further-exploration)
+- [Disclaimer](#disclaimer)
+- [Contributing](#contributing)
+
+
 ## Overview
 
 Welcome to the DiscordChatBot project powered by the OpenAI API! 🤖🚀
@@ -148,7 +164,7 @@ ChatterBox is a simple example of a Discord bot using the OpenAI API. The bot's 
 
 ## Contributing
 
-Contributions to DiscordChatBot are highly welcome! If you'd like to add new features, improve existing functionality, or fix any issues, feel free to submit a pull request.
+Contributions to DiscordChatBot are highly welcome! Please submit a pull request if you have any ideas for new features, enhancements to existing functionality, or if you find any bugs. Your contributions are much appreciated and will help to improve the overall user experience.
 
 ---
 
