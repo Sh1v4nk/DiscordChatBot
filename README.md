@@ -7,6 +7,7 @@ Welcome to the repository for my DiscordChatBot project, powered by the OpenAI A
 
 - [Overview](#overview)
 - [Key Features](#key-features)
+  - [Application Demo](#application-demo)
 - [Technology Used](#technology-used)
 - [Get API Keys](#get-api-keys)
 - [Installation](#installation)
