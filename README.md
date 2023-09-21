@@ -1,4 +1,5 @@
 # DiscordChatBot
+
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Welcome to the repository for my DiscordChatBot project, powered by the OpenAI API. This project utilizes Python to create a chatbot that can engage in conversations on Discord servers using the OpenAI API. The chatbot leverages the capabilities of GPT-3.5 to generate human-like responses, making interactions with users more dynamic and engaging.
@@ -18,7 +19,6 @@ Welcome to the repository for my DiscordChatBot project, powered by the OpenAI A
 - [Further Exploration](#further-exploration)
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
-
 
 ## Overview
 
@@ -101,7 +101,7 @@ cd DiscordChatBot
 
 Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENAI_API_KEY with your actual OpenAI API key.
 
-_Note: Keep this file secure and never share it publicly or commit it to version control._
+> ⚠️ **_Note: Keep this file secure and never share it publicly or commit it to version control._**
 
 5. Save and close the config.json file.
 
@@ -121,7 +121,7 @@ After installing the required libraries, run the bot using the provided code:
 python main.py
 ```
 
-_Note: You can Replace main.py with the actual name of your bot script._
+> ⚠️ **_Note: You can Replace main.py with the actual name of your bot script._**
 
 By following these instructions, you'll be able to set up and run the chatbot with your own API keys. This approach ensures the security of your sensitive information.
 
