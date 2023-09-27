@@ -99,7 +99,7 @@ cd DiscordChatBot
 }
 ```
 
-Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENAI_API_KEY with your actual OpenAI API key.
+**Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENAI_API_KEY with your actual OpenAI API key.**
 
 > ⚠️ **_Note: Keep this file secure and never share it publicly or commit it to version control._**
 
@@ -167,6 +167,7 @@ ChatterBox is a simple example of a Discord bot using the OpenAI API. The bot's 
 
 Contributions to DiscordChatBot are highly welcome! Please submit a pull request if you have any ideas for new features, enhancements to existing functionality, or if you find any bugs. Your contributions are much appreciated and will help to improve the overall user experience.
 
+> "Alone we can do so little; together we can do so much." - Helen Keller
 ---
 
 Thank you for visiting my DiscordChatBot repository. If you have any suggestions or feedback, feel free to reach out to me.
