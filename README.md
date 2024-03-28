@@ -167,6 +167,10 @@ ChatterBox is a simple example of a Discord bot using the OpenAI API. The bot's 
 
 Contributions to DiscordChatBot are highly welcome! Please submit a pull request if you have any ideas for new features, enhancements to existing functionality, or if you find any bugs. Your contributions are much appreciated and will help to improve the overall user experience.
 
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
 > "Alone we can do so little; together we can do so much." - Helen Keller
 ---
 
