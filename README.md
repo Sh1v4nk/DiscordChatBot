@@ -172,6 +172,11 @@ Contributions to DiscordChatBot are highly welcome! Please submit a pull request
 3. Make your changes and submit a pull request.
 
 > "Alone we can do so little; together we can do so much." - Helen Keller
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Sh1v4nk/DiscordChatBot/blob/main/LICENSE) file for details.
+
 ---
 
 Thank you for visiting my DiscordChatBot repository. If you have any suggestions or feedback, feel free to reach out to me.
