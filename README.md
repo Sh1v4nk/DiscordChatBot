@@ -19,6 +19,7 @@ Welcome to the repository for my DiscordChatBot project, powered by the OpenAI A
 - [Further Exploration](#further-exploration)
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 
