@@ -55,7 +55,7 @@ This project offers a unique opportunity to explore the fusion of AI-driven conv
 
 This project makes use of the following technologies, libraries, and tools:
 
-- **Python:** The core programming language used for implementing the chatbot and its interactions.
+- **[Python](https://www.python.org/):** The core programming language used for implementing the chatbot and its interactions.
 
 - **Discord.py:** A Python library for interacting with the Discord API, enabling the creation of the chatbot and its integration within Discord servers.
 
