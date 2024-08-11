@@ -57,7 +57,7 @@ This project makes use of the following technologies, libraries, and tools:
 
 - **[Python](https://www.python.org/):** The core programming language used for implementing the chatbot and its interactions.
 
-- **Discord.py:** A Python library for interacting with the Discord API, enabling the creation of the chatbot and its integration within Discord servers.
+- **[Discord.py](https://discordpy.readthedocs.io/en/stable/):** A Python library for interacting with the Discord API, enabling the creation of the chatbot and its integration within Discord servers.
 
 - **OpenAI API:** The project utilizes the OpenAI API to access the GPT-3.5 model, allowing the chatbot to generate human-like responses.
 
