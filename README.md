@@ -59,7 +59,7 @@ This project makes use of the following technologies, libraries, and tools:
 
 - **[Discord.py](https://discordpy.readthedocs.io/en/stable/):** A Python library for interacting with the Discord API, enabling the creation of the chatbot and its integration within Discord servers.
 
-- **OpenAI API:** The project utilizes the OpenAI API to access the GPT-3.5 model, allowing the chatbot to generate human-like responses.
+- **[OpenAI API](https://openai.com/api/):** The project utilizes the OpenAI API to access the GPT-3.5 model, allowing the chatbot to generate human-like responses.
 
 - **difflib Library:** Used for managing message similarity and generating diverse responses to prevent repetition.
 
