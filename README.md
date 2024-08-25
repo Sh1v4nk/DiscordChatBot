@@ -1,8 +1,12 @@
+<div align="center">
+
 # DiscordChatBot
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
 Welcome to the repository for my DiscordChatBot project, powered by the OpenAI API. This project utilizes Python to create a chatbot that can engage in conversations on Discord servers using the OpenAI API. The chatbot leverages the capabilities of GPT-3.5 to generate human-like responses, making interactions with users more dynamic and engaging.
+
+</div>
 
 ## Table of Contents
 
