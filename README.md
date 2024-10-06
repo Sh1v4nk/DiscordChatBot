@@ -118,7 +118,7 @@ cd DiscordChatBot
 _To run the bot, make sure you have Python and the required libraries installed. You can install the required libraries using the following command:_
 
 ```
-pip install discord.py openai
+pip install discord.py openai python-dotenv
 ```
 
 After installing the required libraries, run the bot using the provided code:
