@@ -96,22 +96,16 @@ cd DiscordChatBot
 
 3. Create a new file in the root directory of the project and name it config.json.
 
-4. Inside config.json, add your Discord bot token and OpenAI API key in the following format:
+4. Inside the .env file, add your Discord bot token and OpenAI API key in the format given in .env.example
 
-```bash
-{
- "PassKey": "YOUR_DISCORD_BOT_TOKEN",
- "OPENAI_API_KEY": "YOUR_OPENAI_API_KEY"
-}
-```
 
 **Replace YOUR_DISCORD_BOT_TOKEN with your actual Discord bot token and YOUR_OPENAI_API_KEY with your actual OpenAI API key.**
 
 > ⚠️ **_Note: Keep this file secure and never share it publicly or commit it to version control._**
 
-5. Save and close the config.json file.
+5. Save and close the .env file.
 
-6. Run the bot using the provided code, and it will use the keys you've provided in the config.json file to connect to Discord and use the OpenAI API.
+6. Run the bot using the provided code, and it will use the keys you've provided in the .env file to connect to Discord and use the OpenAI API.
 
 ## Running the Bot
 
