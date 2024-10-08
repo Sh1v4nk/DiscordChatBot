@@ -2,6 +2,7 @@
 
 # DiscordChatBot
 
+[![code style: ruff](https://img.shields.io/badge/code_style-Ruff-orange?style=flat-square&logoColor=black)](https://github.com/astral-sh/ruff)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sh1v4nk/DiscordChatBot)
 
