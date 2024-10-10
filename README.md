@@ -95,7 +95,7 @@ git clone https://github.com/Sh1v4nk/DiscordChatBot.git
 cd DiscordChatBot
 ```
 
-3. Create a new file in the root directory of the project and name it config.json.
+3. Create a new file in the root directory of the project and name it .env.
 
 4. Inside the .env file, add your Discord bot token and OpenAI API key in the format given in .env.example
 
