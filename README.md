@@ -69,7 +69,7 @@ This project makes use of the following technologies, libraries, and tools:
 
 - **difflib Library:** Used for managing message similarity and generating diverse responses to prevent repetition.
 
-- **ENV:** The configuration for the bot's credentials is stored in env format.
+- **.ENV:** Used to store sensitive bot credentials securely.
 
 These technologies collectively power the chatbot's functionality, integration, and AI-driven interactions within Discord servers.
 
